@@ -1,0 +1,9 @@
+Angular ist eine Open-Source-Web-Anwendungsframework, die von Google entwickelt wurde. Es wird verwendet, um Webanwendungen zu erstellen, die schnell und effizient ausgeführt werden können. Es ist eines der beliebtesten JavaScript-Frameworks und wird von vielen Entwicklern auf der ganzen Welt verwendet.
+
+Angular wurde ursprünglich als Teil von AngularJS entwickelt. Im Gegensatz zu AngularJS ist Angular vollständig modularer Aufbau und kann daher leichter erweitert und angepasst werden. Es unterstützt die Entwicklung von dynamischen, responsiven Websites und Web-Anwendungen, die auf unterschiedlichen Plattformen und Geräten aufgebaut werden können.
+
+Angular arbeitet auf Grundlage des Model-View-Controller-Entwurfsmusters (MVC). Dies bedeutet, dass es drei verschiedene Komponenten gibt, die es den Entwicklern ermöglichen, äußerst effizient und effektiv zu arbeiten. Mit diesem Muster können Entwickler leicht verschiedene Modelle erstellen und auf eine einheitliche Ansicht ändern, ohne den Code neu schreiben zu müssen.
+
+Ein weiterer Vorteil von Angular ist seine integrierte Unterstützung für TypeScript. TypeScript ist eine Sprache, die es Entwicklern ermöglicht, schneller zu debuggen und zu bearbeiten. Es enthält auch einige nützliche Funktionen wie statische Typisierung, Interfaces und Klassenhierarchien. Mit TypeScript werden auch neue Features wie die Verwendung von Funktionen, Proxys und einige moderne Funktionen eingeführt.
+
+Angular ist ein sehr mächtiges und leistungsfähiges Framework, das Entwicklern die Möglichkeit gibt, erstaunliche Webanwendungen und Websites zu erstellen. Es ist auch sehr benutzerfreundlich, sodass selbst Anfänger schnell lernen können, wie man es verwendet. Es ist ein sehr nützliches Tool für diejenigen, die eine effiziente und effektive Webanwendung erstellen möchten.

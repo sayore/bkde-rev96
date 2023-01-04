@@ -22,5 +22,11 @@
 		"vite": "^4.0.0",
 		"vitest": "^0.25.3"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"mysql": "^2.18.1",
+		"mysql2": "^2.3.3",
+		"node-sass": "^8.0.0",
+		"sass": "^1.56.2"
+	}
 }
