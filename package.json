@@ -24,6 +24,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@sveltejs/adapter-node": "^1.0.0",
 		"mysql": "^2.18.1",
 		"mysql2": "^2.3.3",
 		"node-sass": "^8.0.0",

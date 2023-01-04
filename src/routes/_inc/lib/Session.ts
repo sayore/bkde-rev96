@@ -1,7 +1,7 @@
 import type mysql2 from 'mysql2/promise';
 import type { FieldPacket, ResultSetHeader, RowDataPacket } from 'mysql2/promise';
 
-class SessionHandler {
+export class SessionHandler {
   private db: mysql2.Connection;
 
   constructor(db: mysql2.Connection) {

@@ -1,6 +1,6 @@
 //import * as db from '$lib/server/database';
 import mysql from 'mysql2/promise';
-import Session
+import { SessionHandler } from '../_inc/lib/Session';
 
 /** @type {import('./$types').LayoutServerLoad} */
 export async function load() {
