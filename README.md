@@ -2,6 +2,8 @@
 
 Derzeitiges Portfolio, stark WIP, three.js geplant.
 
+Start here: https://github.com/sayore/bkde-rev96/blob/master/src/routes/_inc/App.svelte
+
 ## Creating a project
 
 If you're seeing this, you've probably already done this step. Congrats!
