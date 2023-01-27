@@ -4,9 +4,9 @@ Derzeitiges Portfolio, stark WIP, three.js geplant.
 
 - [x] Einige Frameworks und Beschreibungen hinzugefügt
 - [x] Erste nice visuals
-- [] Three JS für 3d Elemente im Background
-- [] Kalender für Terminplanung
-- [] Projekte einbinden die schon auf LinkedIn zu sehen sind.
+- [ ] Three JS für 3d Elemente im Background
+- [ ] Kalender für Terminplanung
+- [ ] Projekte einbinden die schon auf LinkedIn zu sehen sind.
 
 Start here: https://github.com/sayore/bkde-rev96/blob/master/src/routes/_inc/App.svelte
 
